@@ -16,7 +16,6 @@ A collection of modern web development projects showcasing HTML5, CSS3, JavaScri
 - [Getting Started](#getting-started)
 - [Project Details](#project-details)
 - [Screenshots](#screenshots)
-- [License](#license)
 - [Author](#author)
 
 ## 🎯 Projects Overview
@@ -234,10 +233,6 @@ Both projects follow modern web design principles:
 - [ ] Project portfolio gallery
 - [ ] Testimonials section
 - [ ] Analytics integration
-
-## 📝 License
-
-This project is licensed under the MIT License - feel free to use it for learning and development.
 
 ## 👨‍💻 Author
 
