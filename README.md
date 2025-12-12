@@ -112,7 +112,7 @@ A modern, multi-page portfolio website featuring resume and bio-data pages with 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/heynameisabhi/Web_Technology_Assignment.git
+   git clone https://github.com/DEEPAcs034/Web_Technology_Assignment.git
    cd Web_Technology_Assignment
    ```
 
@@ -242,11 +242,14 @@ Both projects follow modern web design principles:
 
 ## 👨‍💻 Author
 
-**Abhishek Kini**
+**Deepa D Prabhu**
 
-- GitHub: [@heynameisabhi](https://github.com/heynameisabhi)
-- LinkedIn: [abhishek-kini-181669287](https://linkedin.com/in/abhishek-kini-181669287)
-- Email: abhishekkini.2005@gmail.com
+- GitHub: [@DEEPAcs034](https://github.com/DEEPAcs034)
+- LinkedIn: [deepa-d-prabhu-24](https://linkedin.com/in/deepa-d-prabhu-24)
+- Email: deepa.23cs034@sode-edu.com
+- Phone: 6361774399
+- HackerRank: [deepa_23cs034](https://www.hackerrank.com/deepa_23cs034)
+- LeetCode: [DeepaDPrabhu](https://leetcode.com/DeepaDPrabhu)
 
 ## 🙏 Acknowledgments
 
@@ -270,6 +273,6 @@ If you found these projects helpful, please consider giving this repository a st
 
 ---
 
-**Made with ❤️ and ☕ by Abhishek Kini**
+**Made with ❤️ and ☕ by Deepa D Prabhu**
 
 *Last Updated: December 2025*
